@@ -1,3 +1,8 @@
 # project1
+// введение массива
 
-int mas = [11, 123, 1234,12356,1]
+int [] array = {11, 123, 1234,12356,1};
+{
+    if (int < 3)
+}
+Console.Writeline ()
